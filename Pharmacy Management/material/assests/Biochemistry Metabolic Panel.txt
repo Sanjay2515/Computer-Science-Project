@@ -1,0 +1,15 @@
+Subject: Request for Biochemistry Panel 
+Date: [date] 
+To Lab Department,
+Please perform the following biochemistry/metabolic tests:
+
+	•Comprehensive Metabolic Panel (CMP)
+	◦Glucose, BUN, Creatinine
+	◦Electrolytes (Na, K, Cl, CO2)
+	◦Liver enzymes (ALT, AST, ALP)
+	◦Bilirubin, Albumin, Total Protein
+	•Lipid Profile (Cholesterol, HDL, LDL, Triglycerides)
+
+Kindly prioritize fasting sample collection where required.
+Regards, 
+[Your Name]
